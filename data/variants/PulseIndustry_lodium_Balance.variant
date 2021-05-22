@@ -1,0 +1,41 @@
+{
+  "displayName": "Balance",
+  "fluxCapacitors": 23,
+  "fluxVents": 30,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_lodium",
+  "hullMods": [
+    "targetingunit"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "PulseIndustry_lodium_Balance",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "PulseIndustry_low_blaster",
+        "WS0002": "PulseIndustry_low_blaster",
+        "WS0003": "PulseIndustry_low_blaster",
+        "WS0004": "PulseIndustry_low_blaster",
+        "WS0005": "PulseIndustry_low_blaster",
+        "WS0006": "PulseIndustry_low_blaster"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0007": "PulseIndustry_blaster",
+        "WS0008": "PulseIndustry_blaster"
+      }
+    }
+  ],
+  "modules": {
+    "WS0009": "PulseIndustry_seekerpulse_Pulse"
+  },
+  "wings": [
+    "PulseIndustry_pulsar_wing"
+  ]
+}

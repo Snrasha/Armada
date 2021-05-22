@@ -1,0 +1,53 @@
+{
+  "bounds": [
+    -62.5,
+    10.5,
+    -22.5,
+    25.5,
+    -6.5,
+    44,
+    48.5,
+    18,
+    63,
+    3.5,
+    63,
+    -3.5,
+    48.5,
+    -18,
+    -6.5,
+    -44,
+    -22.5,
+    -25.5,
+    -62.5,
+    -10.5
+  ],
+  "builtInMods": [
+      "reduced_explosion",
+      "never_detaches"
+  ],
+  "builtInWings": [],
+  "center": [
+    48,
+    65.5
+  ],
+  "collisionRadius": 77.5,
+  "engineSlots": [],
+  "height": 131,
+  "hullId": "PulseIndustry_module_shield",
+  "hullName": "Shield Module",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    -89,
+    -1
+  ],
+  "moduleAnchor": [
+        -40,
+        0
+    ],
+  "shieldRadius": 191.5,
+  "spriteName": "graphics/ships/PulseIndustry_module_shield.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [],
+  "width": 96
+}

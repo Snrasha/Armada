@@ -1,0 +1,57 @@
+{
+  "bounds": [
+    47,
+    -13,
+    26,
+    -29,
+    -17.5,
+    -30.5,
+    -46,
+    -15.5,
+    -46.5,
+    13.5,
+    -28,
+    28.5,
+    28,
+    29,
+    46.5,
+    14.5
+  ],
+  "builtInMods": [
+    "PulseIndustry_a"
+  ],
+  "builtInWings": [],
+  "center": [
+    30.5,
+    48.5
+  ],
+  "collisionRadius": 58,
+  "engineSlots": [],
+  "height": 97,
+  "hullId": "PulseIndustry_seekerpulse",
+  "hullName": "Seeker Pulse",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 54,
+  "spriteName": "graphics/ships/PulseIndustry_seekerpulse.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "WS0001",
+      "locations": [
+        0,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "SYSTEM"
+    }
+  ],
+  "width": 61
+}

@@ -1,0 +1,18 @@
+{
+    "faction":"pulseindustry",
+    "firstname":"Po",
+    "lastname":"Ka",
+    "officerlevel":-1, # Per default if -1, put the officerLevel max of your settings.
+    "officerPersonality":"aggressive",
+    "mainShip":"PulseIndustry_cathedral_Balanced", # Flag Ship variant
+    "advships":[
+    ["PulseIndustry_athenia_Support",2,"aggressive"],
+    ["PulseIndustry_athenia_Strike",2,"aggressive"],
+    ["PulseIndustry_athenia_Poke",2,"aggressive"],
+    ["PulseIndustry_malice_Burst",6,"aggressive"],
+    ["PulseIndustry_cuo_Strike",6,"aggressive"],
+    ["PulseIndustry_bignouf_Strike",6,"aggressive"]],
+    "reward":585000, # Bounty reward.
+    "description":"Pulse Industry Corp. invite you to fight the main ship of their industry.",
+    "dialog":"The Minster is a beautiful ship, no?",
+}

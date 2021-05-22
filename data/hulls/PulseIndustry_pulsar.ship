@@ -1,0 +1,120 @@
+{
+  "bounds": [
+    -17.5,
+    18,
+    17,
+    17.5,
+    17,
+    -17.5,
+    -17.5,
+    -18
+  ],
+  "builtInMods": [
+    "no_weapon_flux"
+  ],
+  "builtInWings": [],
+  "center": [
+    20,
+    18
+  ],
+  "collisionRadius": 43.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -12,
+        -2.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 10
+    },
+    {
+      "angle": -180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -12,
+        2.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 10
+    }
+  ],
+  "height": 36,
+  "hullId": "PulseIndustry_pulsar",
+  "hullName": "Pulsar",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 41,
+  "spriteName": "graphics/ships/PulseIndustry_pulsar.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        13,
+        -11.5
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -0,
+      "arc": 5,
+      "id": "WS0002",
+      "locations": [
+        13,
+        11.5
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -56.5,
+      "arc": 5,
+      "id": "WS0003",
+      "locations": [
+        -11,
+        -15
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 56.5,
+      "arc": 5,
+      "id": "WS0004",
+      "locations": [
+        -11,
+        15
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "WS0005",
+      "locations": [
+        -3,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 40
+}

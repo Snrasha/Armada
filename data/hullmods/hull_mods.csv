@@ -1,0 +1,9 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite
+Force Rotation,PulseIndustry_a,,,,,,,,TRUE,TRUE,0,0,0,0,src.data.hullmods.PulseIndustry_autospin,This structure constantly rotates around its axis.,,graphics/hullmods/axial_rotation.png
+Pulse Core,PulseIndustry_core,,,,,,,,TRUE,,0,0,0,0,src.data.hullmods.PulseIndustry_Core,"The lack of safety protocols increases the ship's top speed in combat by %s/%s/%s/%s and allows the zero-flux engine boost to take always effect. The flux dissipation rate, including that of additional vents, is increased by a factor of %s.
+Prevents the use of active venting, and slightly reduces weapon ranges past %s units and %s hard flux dissipation while shields are active
+This ship is %s automated, and does not require any human crew. The requirement of the crew for these ship are very low.
+Safety Overrides can not be installed these ships.",Drastic improvement in performance.,graphics/hullmods/PulseIndustry_core.png
+Pulse Core Deviant,PulseIndustry_core_deviant,,,,,,,,TRUE,,0,0,0,0,src.data.hullmods.PulseIndustry_Core_deviant,"Reduces the amount of soft flux raised shields generate per second by %s, %s hard flux dissipation while shields are active.
+Extends the range of ballistic and energy weapons by %s unit.
+The performance of this core increase the explosion radius and damage by %s/%s/%s/%s, depending on hull size.",Drastic improvement in performance.,graphics/hullmods/PulseIndustry_core_deviant.png

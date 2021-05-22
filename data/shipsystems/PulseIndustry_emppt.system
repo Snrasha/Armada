@@ -1,0 +1,44 @@
+{
+	"id":"PulseIndustry_emppt",
+	"type":"TELEPORTER",
+	"aiType":"PHASE_TELEPORTER",
+	"statsScript":"src.data.shipsystems.scripts.PulseIndustry_EmpPhaseJump",
+
+	#"type":"STAT_MOD",
+	#"aiType":"CUSTOM",
+	#"aiScript":"src.data.shipsystems.scripts.ai.PulseIndustry_EmpPhaseJumpAI",
+	#"statsScript":"src.data.shipsystems.scripts.PulseIndustry_EmpPhaseJump_old",
+
+
+
+	"jitterColor":[200, 75, 200, 200],
+	"jitterCopies":10,
+	"jitterRange":0,
+	"jitterRangeRadiusFraction":0.5,
+
+	"weaponGlowColor":[255, 100, 255, 255],
+	"weaponTypes":[ENERGY],
+
+	"engineGlowLengthMult":0,
+	"engineGlowWidthMult":0,
+	"engineGlowGlowMult":0,
+
+	"range":500,
+	"randomRange":0,
+
+	"vulnerableChargeup":false,
+	"vulnerableChargedown":false,
+	"renderCopyDuringTeleport":true,
+
+	"fadeActivationSoundOnChargedown":false,
+
+	#"useSound":"system_teleport",
+	"useSound":"system_phase_teleporter",
+	"outOfUsesSound":"gun_out_of_ammo",
+
+	"aiHints":{
+		"activeSpeedIncrease":0,
+		"burstMovementPotential":400,
+		"averageSpeedIncrease":150,
+	}
+}

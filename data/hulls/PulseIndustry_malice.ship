@@ -1,0 +1,182 @@
+{
+  "bounds": [
+    -38.5,
+    11,
+    -51,
+    33,
+    -21,
+    40.5,
+    5,
+    30.5,
+    23,
+    32,
+    56,
+    16,
+    50,
+    9,
+    50,
+    -9,
+    56,
+    -16,
+    23,
+    -32,
+    5,
+    -30.5,
+    -21,
+    -40.5,
+    -51,
+    -33,
+    -38.5,
+    -11
+  ],
+  "builtInMods": [
+
+    "PulseIndustry_core"
+  ],
+  "builtInWeapons": {
+    "CORE": "PulseIndustry_core_malice"
+  },
+  "builtInWings": [],
+  "center": [
+    41,
+    55.5
+  ],
+  "collisionRadius": 80,
+  "engineSlots": [
+    {
+      "angle": 153.5,
+      "contrailSize": 18.852013,
+      "length": 30.399841,
+      "location": [
+        -51,
+        28
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 18.852013
+    },
+    {
+      "angle": -153.5,
+      "contrailSize": 18.852013,
+      "length": 30.399841,
+      "location": [
+        -51,
+        -28
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 18.852013
+    },
+    {
+      "angle": 180,
+      "contrailSize": 16,
+      "length": 47.5,
+      "location": [
+        -38,
+        -6.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 16
+    },
+    {
+      "angle": -180,
+      "contrailSize": 16,
+      "length": 47.5,
+      "location": [
+        -38,
+        6.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 16
+    },
+    {
+      "angle": -53,
+      "contrailSize": 11.688075,
+      "length": 19.38678,
+      "location": [
+        2,
+        -32.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbtop",
+      "width": 11.688075
+    },
+    {
+      "angle": 53,
+      "contrailSize": 11.688075,
+      "length": 19.38678,
+      "location": [
+        2,
+        32.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbtop",
+      "width": 11.688075
+    }
+  ],
+  "height": 111,
+  "hullId": "PulseIndustry_malice",
+  "hullName": "Malice",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 73,
+  "spriteName": "graphics/ships/PulseIndustry_malice.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": -97,
+      "arc": 236,
+      "id": "WS0001",
+      "locations": [
+        -23.5,
+        -27
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 97,
+      "arc": 236,
+      "id": "WS0002",
+      "locations": [
+        -23.5,
+        27
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 21,
+      "id": "WS0003",
+      "locations": [
+        44,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "SYNERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "CORE",
+      "locations": [
+        0,
+        0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 82
+}

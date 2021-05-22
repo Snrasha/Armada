@@ -1,0 +1,99 @@
+{
+  "bounds": [
+    1,
+    14,
+    -10,
+    8,
+    -10,
+    -8,
+    1,
+    -14,
+    10.5,
+    -0
+  ],
+  "builtInWeapons": {
+    "HEAD": "PulseIndustry_teco_head" },
+  "builtInWings": [],
+  "center": [
+    16,
+    11.5
+  ],
+  "collisionRadius": 22.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 11,
+      "length": 14.5,
+      "location": [
+        -10,
+        -5.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 11
+    },
+    {
+      "angle": -180,
+      "contrailSize": 11,
+      "length": 14.5,
+      "location": [
+        -10,
+        5.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 11
+    }
+  ],
+  "height": 23,
+  "hullId": "PulseIndustry_teco",
+  "hullName": "Teco",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 21.5,
+  "spriteName": "graphics/ships/teco/PulseIndustry_teco_body.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 135,
+      "id": "HEAD",
+      "locations": [
+        0,
+        0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -20,
+      "arc": 90,
+      "id": "RSHOULDER",
+      "locations": [
+        -0.5,
+        -12
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 20,
+      "arc": 90,
+      "id": "LSHOULDER",
+      "locations": [
+        -0.5,
+        12
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "MISSILE"
+    }
+  ],
+  "width": 32
+}

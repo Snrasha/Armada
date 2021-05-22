@@ -1,0 +1,37 @@
+{
+
+	"combatSmallForSmallFleet":{
+		"PulseIndustry_cuo_Basic":0.2,
+		"PulseIndustry_cuo_Poke":0.2,
+		"PulseIndustry_cuo_Strike":0.2,
+		"PulseIndustry_malice_Attack":0.1,
+		"PulseIndustry_malice_Burst":0.2,
+		"PulseIndustry_bignouf_Strike":0.2,
+		"PulseIndustry_bignouf_Support":0.1
+	},
+	"combatSmall":{
+		"PulseIndustry_cuo_Basic":0.2,
+		"PulseIndustry_cuo_Poke":0.2,
+		"PulseIndustry_cuo_Strike":0.2,
+		"PulseIndustry_malice_Attack":0.1,
+		"PulseIndustry_malice_Burst":0.2,
+		"PulseIndustry_bignouf_Strike":0.2,
+		"PulseIndustry_bignouf_Support":0.1
+	},
+	"combatLarge":{
+		"PulseIndustry_lodium_Balance":0.1,
+		"PulseIndustry_lodium_Burst":0.1,
+		"PulseIndustry_lodium_Strike":0.1,
+	},
+	"combatCapital":{
+		"PulseIndustry_cathedral_Balanced":1,
+		"PulseIndustry_cathedral_Standard":1,
+	},
+
+	"carrierMedium":{
+		"PulseIndustry_athenia_Strike":0.1,
+		"PulseIndustry_athenia_Poke":0.1,
+		"PulseIndustry_athenia_Support":0.1,
+	},
+
+}

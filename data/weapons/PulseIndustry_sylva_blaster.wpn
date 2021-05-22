@@ -1,0 +1,49 @@
+{
+  "animationType": "GLOW_AND_FLASH",
+  "barrelMode": "ALTERNATING",
+  "displayArcRadius": 450,
+  "fireSoundTwo": "PulseIndustry_sylva_blaster_fire",
+  "glowColor":[100,200,100,255],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "hardpointGunSprite": "graphics/weapons/PulseIndustry_sylva_blaster_hardpoint_recoil.png",
+  "hardpointOffsets": [
+    43.5,
+    -0.5
+  ],
+  "hardpointSprite": "graphics/weapons/PulseIndustry_sylva_blaster_hardpoint_base.png",
+  "id": "PulseIndustry_sylva_blaster",
+  "muzzleFlashSpec": {
+    "length": 50,
+    "particleColor": [
+      100,
+      200,
+      100,
+      255
+    ],
+    "particleCount": 12,
+    "particleDuration": 0.12,
+    "particleSizeMin": 20,
+    "particleSizeRange": 10,
+    "spread": 25
+  },
+  "projectileSpecId": "PulseIndustry_sylva_blaster_shot",
+  "renderHints": [
+    RENDER_BARREL_BELOW
+  ],
+  "size": "LARGE",
+  "specClass": "projectile",
+  "textureType": ROUGH,
+  "turretAngleOffsets": [
+    0
+  ],
+  "turretGunSprite": "graphics/weapons/PulseIndustry_sylva_blaster_turret_recoil.png",
+  "turretOffsets": [
+    39,
+    -0.5
+  ],
+  "turretSprite": "graphics/weapons/PulseIndustry_sylva_blaster_turret_base.png",
+  "type": "ENERGY",
+  "visualRecoil": 20
+}

@@ -1,0 +1,41 @@
+{
+  "displayName": "Strike",
+  "fluxCapacitors": 18,
+  "fluxVents": 17,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_lodium",
+  "hullMods": [
+    "targetingunit"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "PulseIndustry_lodium_Strike",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "ioncannon",
+        "WS0002": "ioncannon",
+        "WS0007": "heavyblaster",
+        "WS0008": "heavyblaster"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "pdburst",
+        "WS0004": "pdburst",
+        "WS0005": "pdburst",
+        "WS0006": "pdburst"
+      }
+    },
+  ],
+  "modules": {
+    "WS0009": "PulseIndustry_seekerpulse_Pulse"
+  },
+  "wings": [
+    "PulseIndustry_coupsur_wing"
+  ]
+}

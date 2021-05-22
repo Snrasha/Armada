@@ -1,0 +1,75 @@
+{
+  "bounds": [
+    -7,
+    15,
+    15.5,
+    5,
+    4.5,
+    -15,
+    -16,
+    -1.5
+  ],
+  "builtInMods": [
+    "advancedoptics",
+    "no_weapon_flux"
+  ],
+  "builtInWings": [],
+  "center": [
+    16,
+    17
+  ],
+  "collisionRadius": 28,
+  "engineSlots": [
+    {
+      "angle": 176.5,
+      "contrailSize": 7.815415,
+      "length": 19.716232,
+      "location": [
+        -14,
+        1
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 7.815415
+    },
+    {
+      "angle": -158,
+      "contrailSize": 7.815415,
+      "length": 19.716232,
+      "location": [
+        -9.5,
+        -8
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 7.815415
+    }
+  ],
+  "height": 34,
+  "hullId": "PulseIndustry_lassitude",
+  "hullName": "Lassitude",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 26,
+  "spriteName": "graphics/ships/PulseIndustry_lassitude.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        8,
+        6
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 32
+}

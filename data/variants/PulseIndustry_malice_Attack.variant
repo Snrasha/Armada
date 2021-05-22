@@ -1,0 +1,29 @@
+{
+  "displayName": "Attack",
+  "fluxCapacitors": 10,
+  "fluxVents": 10,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_malice",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "PulseIndustry_malice_Attack",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "PulseIndustry_low_blaster",
+        "WS0002": "PulseIndustry_low_blaster"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "irpulse"
+      }
+    }
+  ],
+  "wings": []
+}

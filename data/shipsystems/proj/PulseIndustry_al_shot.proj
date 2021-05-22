@@ -1,0 +1,41 @@
+{
+	"id":"PulseIndustry_al_shot",
+	"specClass":"missile",
+	"missileType":"MISSILE",
+	"sprite":"graphics/missiles/PulseIndustry_al_proj.png",
+	"size":[7,13],
+	"center":[3.5,6.5],
+	"collisionRadius":6,
+	"glowColor":[255,200,100,90],
+	"glowRadius":18,
+	"fringeColor":[255,100,100,255],
+	"coreColor":[255,135,135,255],
+	"collisionClass":"MISSILE_NO_FF",
+	"explosionColor":[255,165,255,190],  # purely visual, will get a white additively blended core on top of this color
+	"explosionRadius":5, # purely visual
+	"engineSpec":{"turnAcc":5,
+				  "turnRate":5,
+				  "acc":30000,
+				  "dec":1},
+	"engineSlots":[{"id":"ES1",
+					"loc":[0, 0],
+				    #"style":"MISSILE_MIDLINE",
+				    "style":"CUSTOM",
+					"styleSpec":{
+						"mode":"QUAD_STRIP", # PARTICLES or QUAD_STRIP, determines which params are used
+						"engineColor":[255,99,46,180],
+						"contrailDuration":.5,
+						"contrailWidthMult":.5,
+						"contrailWidthAddedFractionAtEnd":-1,  # can be negative. makes trail spread out/narrow at the end
+						"contrailMinSeg":5, # min segment length, in pixels
+						"contrailMaxSpeedMult":.0f,
+						"contrailAngularVelocityMult":0.5f,
+						"contrailSpawnDistMult":0.1, # how far away from engine it starts
+						"contrailColor":[255,99,46,180],
+						"type":"GLOW"
+					},
+				    "width":4.0,
+				    "length":20.0,
+				    "angle":180.0}]
+
+}

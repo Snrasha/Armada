@@ -1,0 +1,88 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 36,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "PulseIndustry_cathedral",
+    "hullMods": [],
+    "modules": [
+        {"WS0036": "PulseIndustry_module_shield_Standard"},
+        {"WS0039": "PulseIndustry_module_shield_Standard"},
+        {"WS0038": "PulseIndustry_module_shield_Standard"},
+        {"WS0037": "PulseIndustry_module_shield_Standard"}
+    ],
+    "permaMods": [],
+    "variantId": "PulseIndustry_cathedral_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "LARGE_0": "tachyonlance",
+                "LARGE_1": "tachyonlance"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0005": "reaper",
+                "WS0008": "reaper",
+                "WS0009": "reaper",
+                "WS0020": "reaper",
+                "WS0021": "reaper",
+                "WS0022": "reaper",
+                "WS0023": "reaper",
+                "WS0024": "reaper",
+                "WS0025": "reaper",
+                "WS0026": "reaper",
+                "WS0027": "reaper",
+                "WS0028": "reaper",
+                "WS0029": "reaper",
+                "WS0030": "reaper",
+                "WS0031": "reaper",
+                "WS0032": "reaper",
+                "WS0033": "reaper",
+                "WS0034": "reaper",
+                "WS0035": "reaper"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "ionbeam",
+                "WS0004": "ionbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "gravitonbeam",
+                "WS0013": "gravitonbeam",
+                "WS0016": "gravitonbeam",
+                "WS0017": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "heavyburst",
+                "WS0007": "heavyburst",
+                "WS0014": "heavyburst",
+                "WS0015": "heavyburst",
+                "WS0018": "heavyburst",
+                "WS0019": "heavyburst"
+            }
+        }
+    ],
+    "wings": [
+        "dagger_wing",
+        "dagger_wing",
+        "broadsword_wing",
+        "broadsword_wing",
+        "claw_wing"
+    ]
+}

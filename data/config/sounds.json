@@ -1,0 +1,15 @@
+{
+
+	"PulseIndustry_blaster_fire":
+	[
+		{"file":"sounds/PulseIndustry_blaster_fire.ogg","pitch":1,"volume":0.8},
+	],
+	"PulseIndustry_sylva_blaster_fire":
+	[
+		{"file":"sounds/PulseIndustry_blaster_fire.ogg","pitch":1,"volume":1},
+	],
+	"PulseIndustry_mini_blaster_fire":
+	[
+		{"file":"sounds/PulseIndustry_blaster_fire.ogg","pitch":1,"volume":0.6},
+	],
+}

@@ -1,0 +1,21 @@
+{
+  "displayName": "Support Fighter",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_coupsur",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 1,
+  "variantId": "PulseIndustry_coupsur_Fighter",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "gravitonbeam"
+      }
+    }
+  ],
+  "wings": []
+}

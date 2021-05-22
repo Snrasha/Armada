@@ -1,0 +1,75 @@
+{
+  "bounds": [
+    23,
+    -5.5,
+    -3,
+    -18,
+    -24,
+    -7,
+    2,
+    17.5
+  ],
+  "builtInMods": [
+    "advancedoptics",
+    "no_weapon_flux"
+  ],
+  "builtInWings": [],
+  "center": [
+    18,
+    24.5
+  ],
+  "collisionRadius": 36,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -15,
+        7
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 10
+    },
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -21.5,
+        -7
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 10
+    }
+  ],
+  "height": 49,
+  "hullId": "PulseIndustry_coupsur",
+  "hullName": "Coupsur",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 33.5,
+  "spriteName": "graphics/ships/PulseIndustry_coupsur.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        15,
+        -5
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 36
+}

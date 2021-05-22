@@ -1,0 +1,15 @@
+{
+	"id":"PulseIndustry_empfocus",
+	"type":"STAT_MOD",
+	"aiType":"CUSTOM",
+	"aiScript":"src.data.shipsystems.scripts.ai.PulseIndustry_empfocusAI",
+
+	"statsScript":"src.data.shipsystems.scripts.PulseIndustry_empfocus",
+
+	"fadeActivationSoundOnChargedown":true,
+	"useSound":"system_quantumdisruptor",
+	"outOfUsesSound":"gun_out_of_ammo",
+
+	"aiHints":{
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"specClass":"projectile",
+	"id":"PulseIndustry_teco_shoulder_LEFT",
+	"type":"ENERGY",
+	"size":"MEDIUM",
+  "turretSprite": "graphics/ships/teco/PulseIndustry_teco_shoulder_left.png",
+	"turretGlowSprite":"",
+	"hardpointSprite":"",
+	"hardpointGlowSprite":"",
+
+
+
+  "turretAngleOffsets": [
+    -2,
+    2
+  ],
+  "turretOffsets": [
+    14.5,
+    -0.5,
+    14.5,
+    1.5
+  ],
+	"glowColor":[255,100,100,255],
+	"barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+
+	"hardpointOffsets":[0, 0,0,0],
+	"hardpointAngleOffsets":[0,0],
+
+	"animationType":"GLOW_AND_FLASH",
+	"muzzleFlashSpec":{"length":23.0,   # only used if animationType = MUZZLE_FLASH
+					   "spread":5.0,
+					   "particleSizeMin":10.0,
+					   "particleSizeRange":12.0,
+					   "particleDuration":0.12,
+					   "particleCount":12,
+					   "particleColor":[255,100,100,255]},
+	"autocharge":true,  # whether the weapon will continue charging and fire if the LMB is tapped instead of held
+	"requiresFullCharge":false,  # for pulse weapons - whether the weapon will fire at a lower strength partial charge
+	"projectileSpecId":"irpulse_shot",  # projectile that will be fired
+	"fireSoundTwo":"ir_pulse_laser_fire",
+}

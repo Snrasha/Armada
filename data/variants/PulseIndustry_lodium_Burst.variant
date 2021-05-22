@@ -1,0 +1,41 @@
+{
+  "displayName": "Burst",
+  "fluxCapacitors": 22,
+  "fluxVents": 23,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_lodium",
+  "hullMods": [
+    "targetingunit"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "PulseIndustry_lodium_Burst",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "irpulse",
+        "WS0002": "irpulse",
+        "WS0003": "irpulse",
+        "WS0004": "irpulse",
+        "WS0007": "phasebeam",
+        "WS0008": "phasebeam"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "pdburst",
+        "WS0006": "pdburst"
+      }
+    },
+  ],
+  "modules": {
+    "WS0009": "PulseIndustry_seekerpulse_Pulse"
+  },
+  "wings": [
+    "PulseIndustry_coupsur_wing"
+  ]
+}

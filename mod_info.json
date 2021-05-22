@@ -1,0 +1,16 @@
+{
+  "id":"PulseIndustry",
+	"name":"Pulse Industry",
+	"author":"Snrasha",
+	"version":"1.0",
+	"description":"Compatible Nexerelin. Use Version Checker. A pack of kitbashed ships all designed to operate within the sphere of hightech, happy hunting!",
+	"gameVersion":"0.95a",
+	"modPlugin":"src.data.scripts.world.PulseIndustry_ModPlugin",
+  "dependencies": [
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib",
+        },
+    ],
+	"jars":["jars/PulseIndustry.jar"],
+}

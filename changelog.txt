@@ -1,0 +1,152 @@
+Version 1.1:
+-Update to latest version of starsector.
+
+
+Version 1.0(break save):
+-Remove every useless stuff for get only a tiny mod which add nothing "bad".
+-Because of the upper line, i have needed to retire every contents of Yui-Chan because i do not own theses ships.
+-Renamed the mod to Pulse Industry
+
+
+Version 0.7.1f(hotfix):
+-Increase rarity of the plot to 0.7 from 1
+-Increase rarity of the lassitude to 0.6 from 0.8
+-Increase rarity of the coupsur to 0.6 from 0.8
+
+
+
+Version 0.7.1e(hotfix):
+-Fix the heal of the claptrop to a better number
+-Remove remnant wolf,mora, sunder of remnant fleet.
+-Reduce price of deployement of Lodium.
+-Reduce price of the Cognitif.
+-Add remnant wolf,mora and sunder on the Scavanger fleet.
+-Nerf the wolfunder topspeed to 120 from 140.
+-Nerf the weak EMP Emitter cooldown to 4 from 3 seconds.
+-Minster cost increased of 300 000 credits.
+-Block Safety Override on pulse core deviant too.
+-Remove ammo on the Purified Burst Beam of Teco fighter. (Cooldown of 4.5seconds)
+-Reduce flux dissipation of Blevis of 200.
+-Reduce flux capacitor of Blevis of 2000.
+
+Version 0.7.1d(hotfix):
+-Fix the module bug where module ship will not proc the retreat.
+
+Version 0.7.1c(hotfix):
+-Remove the need of MagicLib.
+-Add exception if lack of library
+
+Version 0.7.1b(hotfix):
+-Fix spawnpool.
+-Lodium nerf:  
+		Reduce hull from 7000 to 6000
+		Reduce armor from 600 to 500
+		Reduce flux cap from 14000 to 12000
+		Reduce flux diss from 900 to 850
+-Lassitude up: Refit time reduce to 10 from 20
+-Coupsur up: Refit time reduce to 15 from 25
+-increase rarity of some fighter.
+-Increase max burn of some ships.
+-Reduce crew min for Minster to 200 from 500 and the crew max to 3500 from 5000
+-Reduce the peak time to 640 from 720 of the Blevis.
+-Display the Minster on the codex.
+-Increase the cargo of Moraunder to 250 from 130. Reduce the crew min/max to 20/70 from 40/90
+-Merge the mining moraunder to 6 from 3 (and reduce the moraunder launch bay to 3 from 4)
+
+
+Version 0.7.1:
+-Reduce spawn-rate of every ships per ten or five.
+
+
+Version 0.7:
+-Update 0.9.1
+-Fix text.
+-Decrease spawn rate of fake-remnant ship on remnant fleet.
+-Increase cost of every ships.
+
+
+Version 0.6e:
+-Increase Minster OP to 360 from 340
+-Double the price of the Minster, because  500K is nothing for it.
+-Add a Space Mech
+-Remove Blevis of TT and Independant market.
+-Add Gladiator Society options. (Blevis can be found here.)
+-Increase the shield radius of Minster. (Technically, a nerf for the AI)
+-Modify the Claptrop, the armor repair has be too buggy.(And repair hull is more easy for handle the AI, too.)
+
+Version 0.6d: 
+-Fix color thruster
+-Fix Minster module who dissapears.
+
+Version 0.6c: 
+-Fix crash fighter.
+
+Version 0.6b: 
+-Fix crash fighter.
+
+Version 0.6: 
+-Add three burst weapons for the Pulse Industry Corp.
+-Modify many variants for incorporate these new weapons.
+-Fix spawn, add also the crabunder on the remnant pool.
+-Add the Remnant Wolf
+-Improved AI for the Weak EMP emitter.
+-Crabunder cost price has be increased to 30 000 from 24 000.
+-Fix a shipsystem
+-Add the Remnant Mora
+-Add the Remnant Mining Drone
+-Add a built-in hullmod  The Pulse Core Deviant.
+-The Minster get this new hullmod
+
+
+
+Version 0.5: 
+-Nerf Blevis Topspeed from 50 to 20
+-Add the Minster. (Ship available only on TryTachion stuff, rare blueprint available, compared to the Blevis.)
+-CoupSur wing, the number of fighter has be reduced to 2 from 3.
+-CoupSur wing, reduce credit value to 14 000 from 20 000
+-CoupSur fighter, increase armor to 70 from 50
+-CoupSur fighter get advanced optics.
+-Lassitude fighter, reduce flux capacity to 500 from 600
+-Lassitude fighter, reduce armor to 50 from 70
+-Fix some OP from some Variants.
+-Modify descriptions of ships.
+
+
+
+
+Version 0.4b: 
+-Fix description
+-Add every wings and every frigate on the high-tech blueprint. (Except rare)
+-CoupSur    refit time 25 from 15 
+-Lassitude    refit time 20 from 12
+-Base value of each wings has be increased per 2000-8000 credits
+-Pulsar wing    range nerfed to 2000 from 3500
+
+
+Version 0.4: 
+-Update to 0.9a
+-Clean the mod of useless stuff.
+-Nerf purified beam damage 70 from 100 of the Plot fighter
+
+
+
+Version 0.3: 
+-Add a remnant pirate sunder.
+-Modify the location of every emp generator.
+-Blevis lose the omni shield to a front.
+-Modify the shipsystem of Malice.
+-Modify variant of Malice.
+
+
+
+Version 0.2:  (Break the game, oups)
+
+-Add the last pulse ship, a overpower capital.
+-Modify every Pulse ship.
+-Fix typos.
+-Fix a error for Linux.
+-Add story for ship who have lacking
+-Add a interceptor high-tech
+-Modify the emp generator.
+-Fix somes variants.
+-Remove a shipsystem.

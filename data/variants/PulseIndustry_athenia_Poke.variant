@@ -1,0 +1,32 @@
+{
+  "displayName": "Poke",
+  "fluxCapacitors": 4,
+  "fluxVents": 8,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_athenia",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "PulseIndustry_athenia_Poke",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "ioncannon"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "taclaser",
+        "WS0002": "taclaser"
+      }
+    }
+  ],
+  "wings": [
+    "PulseIndustry_coupsur_wing",
+    "PulseIndustry_coupsur_wing"
+  ]
+}

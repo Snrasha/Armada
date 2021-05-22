@@ -1,0 +1,379 @@
+{
+  "bounds": [
+    -16.5,
+    8,
+    -13.5,
+    25,
+    -23,
+    51,
+    -49,
+    70,
+    -82,
+    69.5,
+    -128.5,
+    38,
+    -153.5,
+    44,
+    -161.5,
+    82.5,
+    -119.5,
+    106,
+    -91,
+    99.5,
+    -69.5,
+    99,
+    -69,
+    121.5,
+    -45.5,
+    125,
+    -13,
+    103.5,
+    24.5,
+    80,
+    14,
+    58,
+    25,
+    56,
+    42,
+    60.5,
+    47,
+    73,
+    103.5,
+    53,
+    115,
+    42,
+    143,
+    25.5,
+    137,
+    10.5,
+    137,
+    -10.5,
+    143,
+    -25.5,
+    115,
+    -42,
+    103.5,
+    -53,
+    47,
+    -73,
+    42,
+    -60.5,
+    25,
+    -56,
+    14,
+    -58,
+    24.5,
+    -80,
+    -13,
+    -103.5,
+    -45.5,
+    -125,
+    -69,
+    -121.5,
+    -69.5,
+    -99,
+    -91,
+    -99.5,
+    -119.5,
+    -106,
+    -161.5,
+    -82.5,
+    -153.5,
+    -44,
+    -128.5,
+    -38,
+    -82,
+    -69.5,
+    -49,
+    -70,
+    -23,
+    -51,
+    -13.5,
+    -25,
+    -16.5,
+    -8
+  ],
+  "builtInMods": [
+    "PulseIndustry_core"
+  ],
+  "builtInWeapons": {
+    "CORE": "PulseIndustry_core_lodium"
+  },
+  "builtInWings": [],
+  "center": [
+    127.5,
+    163
+  ],
+  "collisionRadius": 207.5,
+  "engineSlots": [
+    {
+      "angle": -167,
+      "contrailSize": 17.524872,
+      "length": 75.403709,
+      "location": [
+        -67.5,
+        -107
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 17.524872
+    },
+    {
+      "angle": 167,
+      "contrailSize": 17.524872,
+      "length": 75.403709,
+      "location": [
+        -67.5,
+        107
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 17.524872
+    },
+    {
+      "angle": -58.5,
+      "contrailSize": 14,
+      "length": 80,
+      "location": [
+        22.5,
+        -57.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbtop",
+      "width": 16
+    },
+    {
+      "angle": 58.5,
+      "contrailSize": 14,
+      "length": 80,
+      "location": [
+        22.5,
+        57.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbtop",
+      "width": 16
+    },
+    {
+      "angle": 180,
+      "contrailSize": 14,
+      "length": 47,
+      "location": [
+        -162.5,
+        -77.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 14
+    },
+    {
+      "angle": -180,
+      "contrailSize": 14,
+      "length": 47,
+      "location": [
+        -162.5,
+        77.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 14
+    },
+    {
+      "angle": 180,
+      "contrailSize": 15,
+      "length": 44,
+      "location": [
+        -162,
+        -69.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 15
+    },
+    {
+      "angle": -180,
+      "contrailSize": 15,
+      "length": 44,
+      "location": [
+        -162,
+        69.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 15
+    },
+    {
+      "angle": 180,
+      "contrailSize": 15,
+      "length": 46,
+      "location": [
+        -160,
+        -62
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 15
+    },
+    {
+      "angle": -180,
+      "contrailSize": 15,
+      "length": 46,
+      "location": [
+        -160,
+        62
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 15
+    }
+  ],
+  "height": 326,
+  "hullId": "PulseIndustry_lodium",
+  "hullName": "Lodium",
+  "hullSize": "CRUISER",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 201.5,
+  "spriteName": "graphics/ships/PulseIndustry_lodium.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": -29.5,
+      "arc": 192,
+      "id": "WS0001",
+      "locations": [
+        118,
+        -18.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 29.5,
+      "arc": 192,
+      "id": "WS0002",
+      "locations": [
+        118,
+        18.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -32,
+      "arc": 146,
+      "id": "WS0003",
+      "locations": [
+        88,
+        -26.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 32,
+      "arc": 146,
+      "id": "WS0004",
+      "locations": [
+        88,
+        26.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -90,
+      "arc": 180,
+      "id": "WS0005",
+      "locations": [
+        -1.5,
+        -19.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 90,
+      "arc": 180,
+      "id": "WS0006",
+      "locations": [
+        -1.5,
+        19.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -28.5,
+      "arc": 201,
+      "id": "WS0007",
+      "locations": [
+        56,
+        -32.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 28.5,
+      "arc": 201,
+      "id": "WS0008",
+      "locations": [
+        56,
+        32.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 1,
+      "id": "WS0009",
+      "locations": [
+        -69,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "STATION_MODULE"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 1",
+      "locations": [
+        63,
+        1.5,
+        63,
+        -1.5
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "CORE",
+      "locations": [
+        0,
+        0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 255
+}

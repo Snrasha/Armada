@@ -1,0 +1,13 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_module_shield",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "PulseIndustry_module_shield_Standard",
+  "weaponGroups": [],
+  "wings": []
+}

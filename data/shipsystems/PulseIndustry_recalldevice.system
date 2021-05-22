@@ -1,0 +1,13 @@
+{
+	"id":"PulseIndustry_recalldevice",
+	"type":"STAT_MOD",
+	"aiType":"CUSTOM",
+	"aiScript":"src.data.shipsystems.scripts.ai.PulseIndustry_recalldeviceAI",
+	"statsScript":"src.data.shipsystems.scripts.PulseIndustry_recalldeviceStats",
+
+	"useSound":"system_recall_device",
+	"outOfUsesSound":"gun_out_of_ammo",
+
+	"aiHints":{
+	}
+}

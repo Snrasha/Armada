@@ -1,0 +1,13 @@
+{
+	"id":"PulseIndustry_al",
+	"type":"WEAPON",
+	"aiType":"CUSTOM",
+	#"statsScript":"src.data.shipsystems.scripts.PulseIndustry_Locuststats",
+	"aiScript":"src.data.shipsystems.scripts.ai.PulseIndustry_LocustAI",
+
+	"weaponDataId":"PulseIndustry_al_wpn",
+	"useSound":"system_phase_cloak_activate",
+	"deactivateSound":"system_phase_cloak_deactivate",
+	"outOfUsesSound":"system_phase_cloak_collision",
+
+}

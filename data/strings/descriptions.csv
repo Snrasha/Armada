@@ -1,0 +1,66 @@
+id,type,text1,text2,text3,notes
+,,,,,
+PulseIndustry_cuo,SHIP,"Cuo is almost entirely automated frigate, made on the very cusp of the anti-AI laws that prohibit such ship's existence. The Pulse Industry Corporation designed the vessel's subsystems to be entirely automated, with human interface being restricted to only just a few of ship's systems. Only one person is required to operate Cuo, only because Pulse Industry Corporation wants to avoid being persecuted for making another ship entirely controlled by AI, which could lead to another war.
+
+Exposed reactor core on Cuo gives it excellent flux dissipation, but unfortunately prevents active venting from occurring.
+Exposing the reactor core allowed for EMP Emitter to be installed, which works by overcharging the exposed part of reactor, characteristic which was discovered by accident during the ship's testing.",,,
+PulseIndustry_bignouf,SHIP,"Bigouf is almost entirely automated frigate, made on the very cusp of the anti-AI laws that prohibit such ship's existence. The Pulse Industry Corporation designed the vessel's subsystems to be entirely automated, with human interface being restricted to only just a few of ship's systems.
+Only five people are required to efficiently use the Bigouf, which prevents sector powers such as Hegemony from investigating the ship's continued existence.
+
+Exposed reactor core on Bigouf gives it excellent flux dissipation, but unfortunately prevents active venting from occurring.
+Unlike Cuo, Bigouf lacks the EMP Emitter. Bigouf's reactor produces more power than it would ever need.
+Resulting overproduction is stored in capacitors spread across the hull and can be used during combat to overcharge Bigouf's energy weapons, allowing it to deal damage to foes it couldn't otherwise.",,,
+PulseIndustry_malice,SHIP,"Malice is almost entirely automated frigate, made on the very cusp of the anti-AI laws that prohibit such ship's existence. The Pulse Industry Corporation designed the vessel's subsystems to be entirely automated, with human interface being restricted to only just a few of ship's systems.
+Only three people are required to efficiently use the Malice, which prevents sector powers such as Hegemony from openly investigating the Malice's continued existence.
+Exposed reactor core on Malice gives it excellent flux dissipation, but unfortunately prevents active venting from occurring.
+Malice's development was riddled with multiple problems and very long development which caused multiple different project leads to lead the project, only to step down not soon after, which caused Malice to be a mess of different ideas.
+Its signature system combines phase teleporter with EMP emitter, allowing Malice to teleport and then emit EMP arcs.
+This unfortunately leads to Malice having little in way of firepower, which relegates Malice to escort duties in trade convoys, but it excels at its job.",,,
+PulseIndustry_lodium,SHIP,"The Lodium is an almost entirely automated capital ship, made on the very cusp of the anti-AI laws that would otherwise prohibit such a ship's existence. The Pulse Industry Corporation designed the vessel's subsystems to be wholly automatic, and human interface is restricted to just a handful of the ship's functions.
+Only one or two crew are required to operate the vessel, but operate it they must in order to avoid the ship counting as an illegal, artificially intelligent weapon of war.
+
+The exposed reactor core installed on the ship gives it excellent flux dissipation, but lacks a active ventilation system.
+The Loduim have scientifics roots and it is directly the Tri-Tachyon modifications of the Farfadet.
+
+While sporting a lightweight basic weapons package, this Tri-Tachyon modification is a highly capable warship, despite its scientific roots.
+Its deep flux reserves, high mobility and modified ""Seeker Pulse"" energy core ability lets it stand toe to toe with contemporary cruisers and earn it a ""light capital"" designation. ",,,
+PulseIndustry_athenia,SHIP,"Athenia is almost entirely automated destroyer, made on the very cusp of the anti-AI laws that prohibit such ship's existence. The Pulse Industry Corporation designed the vessel's subsystems to be entirely automated, with human interface being restricted to only just a few of ship's systems.
+Only eight people are required to efficiently use the Athenia, which prevents sector powers such as Hegemony from openly investigating the Athenia's continued existence.
+
+Exposed reactor core on Athenia gives it excellent flux dissipation, but unfortunately prevents active venting from occurring.
+Athenia is a carrier first and foremost, it lacks weapon mounts, which means it's almost defenceless against enemy attacks, unless it uses the EMP Emitter built on top of its reactor.
+Athenia can also provide a respectable amount of fighters onto the battlefield.
+Exposing reactor core and hollowed out hull for fighters reduced Athenia's structural integrity, meaning it's not as useful in highly dangerous duties.
+Its apperance in Tri-Tachyon Corporation trade convoys made lives of pirates way more dangerous, because Athenia was made for escorting trade convoys.
+Here ya go, only these so far, because I only had so much creativity in me.",,,
+,,,,,
+,,,,,
+PulseIndustry_coupsur,SHIP,"Heavily shielded and armed with a graviton beam, the Coupsur is a brother of the Xyphos. Its reliance on targeting and navigation feeds from larger ships mean it's incapable of operating independently, though it is able to support ships other than its parent carrier.",,,
+PulseIndustry_lassitude,SHIP,"Support fighter with a shield generator, the Lassitude's job is to neutralize fighter who enter on their range but also against shieldless ship. Most effective against phase ship. Its reliance on targeting and navigation feeds from larger ships mean it's incapable of operating independently, though it is able to support ships other than its parent carrier.",,,
+PulseIndustry_pulsar,SHIP,"A tough, shielded and dependable drone"" the words first used as allure for the Pulsar class Assault Drone in the pulse industry board meeting. The announcement of the new fighter recieved great lengths of funding by Pulse Industry executives, to some speculation perhaps because the craft offered a level of personal defence unmatched with any manned fighter before it at the time.
+Executives now frequently bring carriers of these along with their fleets, even a small fleet will now often contain an effigy with a few Pulsar wings, as having them flaunted by the fleet as they travelled proved a powerful way to deter pirate conflict, especially after the battle of Kunan III.
+Perhaps the only weakness of this hard to acquire fighter is that it takes a whole flight deck of construction and repair equipment to maintain just one unit, though, that's hardly a problem when said fighter is so hard to destroy.
+
+A high-end fighter to the core, the Pulsar shouldn't be wasted on a fight it can't win. Equipped with a shield-disabling autocannon and an armor piercing chaingun to finish the job, as well as a basic EMP weapon for added disruption it can tackle almost any combat situation singlehandedly. A simple omni-shield provides decent protection from point defense fire and flak, but the Pulsar has the ability to Recall his fighter immediately to the carrier when caught in a losing situation.
+They cannot use the ship-system if the launch bay is cramped.
+",,,
+PulseIndustry_cathedral,SHIP,"The pinnacle of the Pulse Industry designs, the Minster is a capital ship capable of emitting EMP for disable shield of ship. When you need to bombard a fleet, he is here for you. When you need shield, he is here for you. You search a good freighter and tanker�? The Minster. The Minster is the capital of the Pulse Industry Corporation, the requirement of crew for operate the vessel is so low than many people believe seriously than they have a Alpha Core integrated on it.",,,
+PulseIndustry_teco,SHIP,"This space mech is a weird design from Pulse Industry Corp. Equipped with a PD Burst and a IR Pulse Burst, it's dangerous but slow and shieldless.
+Good only for destroy destroyer or frigate.",,,
+,,,,,
+PulseIndustry_emp,SHIP_SYSTEM,"Activates an EMP generator. Nearby missiles, fighters are all targeted and can be disabled in short order, but cannot target enemy ship.
+The range of the emp depends of the hullsize of the ship.",Special,Generates lightning arcs that quickly knock out enemy missiles or fighter within range. Cannot target enemy ship.,
+PulseIndustry_emppt,SHIP_SYSTEM,"The ship instantly teleports to any desired nearby location. Using this system generates some flux. 
+The modified pulse version have a less range but emit emp.",Special,The ship instantly teleports to any desired nearby location and emit emp. Generates flux when used.,
+PulseIndustry_recalldevice,SHIP_SYSTEM,"Teleport the fighter back to the carrier, allowing it to be quickly refitted and relaunched.",Fighter,"Teleports the fighter back to the carrier, allowing it to be quickly refitted and relaunched.",
+PulseIndustry_empfocus,SHIP_SYSTEM,"Activates an EMP generator who overload a target ship for qew seconds with a very charged EMP. After qew seconds, the EMP on the target hit every ships arounds. ",Offensive,Briefly overloads a nearby enemy ship and EMP ships around this enemy ship.,
+,,,,,
+PulseIndustry_low_blaster,WEAPON,"Fires bolts of energy at hostile targets. With low damage and high flux costs, the Low Pulsar blaster is a weapon manufactured per the Pulse Industry Corporation. This weak version of the Pulsar Blaser has the advantage to target also missiles.
+
+The Low Pulsar Blaster uses improved high-energy gas ammunition which, when activated by a strong electric current, is converted into plasma. A guiding electron is fired along the axis of traversal beforehand, ensuring that the uncontained plasma bolt will travel in the intended direction, thanks to physics that are no longer well understood. The Pulse Industry Corporation has modified the mecanism for de-stabilized the weapon, reducing the damage but adding a EMP power very dangerous.",,,
+PulseIndustry_blaster,WEAPON,"Fires bolts of energy at enemy targets. With mid damage and flux costs, the Pulsar blaster is a weapon manufactured per the Pulse Industry Corporation.
+
+A reliable energy weapon like the Heavy Blaster, the Pulsar Blaster uses improved high-energy gas ammunition which, when activated by a strong electric current, is converted into plasma. A guiding electron is fired along the axis of traversal beforehand, ensuring that the uncontained plasma bolt will travel in the intended direction, thanks to physics that are no longer well understood. The Pulse Industry Corporation has modified the mecanism for de-stabilized the weapon, reducing the damage but adding a EMP power very dangerous.",,,
+PulseIndustry_sylva_blaster,WEAPON,"Fires bolts of energy at enemy targets. With high damage and flux costs, the Sylva blaster is a weapon manufactured per the Pulse Industry Corporation and the large version of the Pulsar Blaster.
+
+A reliable energy weapon like the Heavy Blaster with a more big cannon, the Sylva Blaster uses improved high-energy gas ammunition which, when activated by a strong electric current, is converted into plasma. A guiding electron is fired along the axis of traversal beforehand, ensuring that the uncontained plasma bolt will travel in the intended direction, thanks to physics that are no longer well understood. The Pulse Industry Corporation has modified the mecanism for de-stabilized the weapon, reducing the damage but adding a EMP power very dangerous.",,,

@@ -1,0 +1,12 @@
+{
+  "graphics":{
+
+    "blueprint_packages":{
+      "PulseIndustry_tech_package":"graphics/icons/cargo/PulseIndustry_core_bp.png",
+    },
+  },
+  "designTypeColors":{
+    "Pulse Industry":[100,225,225,255],
+  },
+
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PulseIndustry_teco_shoulder_RIGHT",
+  "specClass": "projectile",
+  "type":"ENERGY",
+  "size": "MEDIUM",
+  "hardpointSprite": "",
+  "turretSprite": "graphics/ships/teco/PulseIndustry_teco_shoulder_right.png",
+  "turretGlowSprite":"",
+  "hardpointGlowSprite":"",
+  "glowColor":[100,200,100,255],
+  "turretAngleOffsets": [0],
+  "turretOffsets": [22.5,1.5],
+  "hardpointOffsets":[15, 0],
+  "hardpointAngleOffsets":[0],
+  "barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+  "animationType":"GLOW_AND_FLASH",
+  "muzzleFlashSpec":{"length":30.0,   # only used if animationType = MUZZLE_FLASH
+             "spread":15.0,
+             "particleSizeMin":20.0,
+             "particleSizeRange":10.0,
+             "particleDuration":0.12,
+             "particleCount":12,
+             "particleColor":[100,200,100,255]},
+  "projectileSpecId":"PulseIndustry_mini_blaster_shot",  # projectile that will be fired
+  "fireSoundTwo":"PulseIndustry_mini_blaster_fire",
+}

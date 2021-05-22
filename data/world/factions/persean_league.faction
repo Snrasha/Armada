@@ -1,0 +1,31 @@
+{
+  "knownShips":{
+    "tags":["PulseIndustry_pulse_bp",],
+    "hulls":[
+      "PulseIndustry_cuo",
+      "PulseIndustry_malice",
+      "PulseIndustry_bignouf",
+      "PulseIndustry_athenia",
+      "PulseIndustry_lodium",
+    ],
+  },
+  "shipsWhenImporting":{
+    "tags":["PulseIndustry_pulse_bp"],
+  },
+  "knownFighters":{
+  "tags":["PulseIndustry_pulse_bp","PulseIndustry_special"],
+
+  "fighters":[
+      "PulseIndustry_coupsur_wing",
+      "PulseIndustry_pulsar_wing",
+      "PulseIndustry_lassitude_wing",
+  ],
+  },
+  "knownWeapons":{
+      "weapons":[
+          "PulseIndustry_low_blaster",
+          "PulseIndustry_blaster",
+          "PulseIndustry_sylva_blaster",
+      ],
+  },
+},

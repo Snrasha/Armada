@@ -1,0 +1,31 @@
+{
+  "displayName": "Support",
+  "fluxCapacitors": 9,
+  "fluxVents": 12,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_athenia",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "PulseIndustry_athenia_Support",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "PulseIndustry_low_blaster",
+        "WS0002": "PulseIndustry_low_blaster",
+        "WS0003": "PulseIndustry_low_blaster"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "wings": [
+    "PulseIndustry_lassitude_wing",
+    "PulseIndustry_coupsur_wing"
+  ]
+}

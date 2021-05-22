@@ -1,0 +1,26 @@
+{
+	"id":"PulseIndustry_low_blaster",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"ENERGY",
+	"size":"SMALL",
+	"turretSprite":"graphics/weapons/PulseIndustry_mini_blaster_turret_base.png",
+	"turretGlowSprite":"graphics/weapons/PulseIndustry_mini_blaster_turret_glow.png",
+	"hardpointSprite":"graphics/weapons/PulseIndustry_mini_blaster_hardpoint_base.png",
+	"hardpointGlowSprite":"graphics/weapons/PulseIndustry_mini_blaster_hardpoint_glow.png",
+	"glowColor":[100,200,100,255],
+	"turretOffsets":[10, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[15, 0],
+	"hardpointAngleOffsets":[0],
+	"barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+	"animationType":"GLOW_AND_FLASH",
+	"muzzleFlashSpec":{"length":30.0,   # only used if animationType = MUZZLE_FLASH
+					   "spread":15.0,
+					   "particleSizeMin":20.0,
+					   "particleSizeRange":10.0,
+					   "particleDuration":0.12,
+					   "particleCount":12,
+					   "particleColor":[100,200,100,255]},
+	"projectileSpecId":"PulseIndustry_mini_blaster_shot",  # projectile that will be fired
+	"fireSoundTwo":"PulseIndustry_mini_blaster_fire",
+}

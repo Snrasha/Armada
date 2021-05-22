@@ -1,0 +1,28 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_teco",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "PulseIndustry_teco_Standard",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "LSHOULDER": "PulseIndustry_teco_shoulder_LEFT"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "RSHOULDER": "PulseIndustry_teco_shoulder_RIGHT"
+      }
+    }
+  ],
+  "wings": []
+}

@@ -1,0 +1,32 @@
+{
+  "displayName": "Strike",
+  "fluxCapacitors": 0,
+  "fluxVents": 11,
+  "goalVariant": true,
+  "hullId": "PulseIndustry_athenia",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "PulseIndustry_athenia_Strike",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "amblaster",
+        "WS0002": "amblaster"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "PulseIndustry_low_blaster"
+      }
+    }
+  ],
+  "wings": [
+    "wasp_wing",
+    "PulseIndustry_teco_wing"
+  ]
+}

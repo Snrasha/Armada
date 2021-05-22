@@ -1,0 +1,191 @@
+{
+  "bounds": [
+    -102.5,
+    37,
+    -32,
+    42.5,
+    -18.5,
+    37,
+    5,
+    37,
+    17,
+    46,
+    27.5,
+    42.5,
+    72.5,
+    31.5,
+    97.5,
+    26,
+    97.5,
+    -26,
+    72.5,
+    -31.5,
+    27.5,
+    -42.5,
+    17,
+    -46,
+    5,
+    -37,
+    -18.5,
+    -37,
+    -32,
+    -42.5,
+    -102.5,
+    -37,
+    -97.5,
+    -0
+  ],
+  "builtInMods": [
+    "PulseIndustry_core"
+  ],
+  "builtInWeapons": {
+    "CORE": "PulseIndustry_core_athenia"
+  },
+  "builtInWings": [],
+  "center": [
+    48,
+    103.5
+  ],
+  "collisionRadius": 128,
+  "engineSlots": [
+    {
+      "angle": -86,
+      "contrailSize": 21,
+      "length": 26.5,
+      "location": [
+        33,
+        -42.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbtop",
+      "width": 21
+    },
+    {
+      "angle": 86,
+      "contrailSize": 21,
+      "length": 26.5,
+      "location": [
+        33,
+        42.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbtop",
+      "width": 21
+    },
+    {
+      "angle": 180,
+      "contrailSize": 40,
+      "length": 45,
+      "location": [
+        -96,
+        -10.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 40
+    },
+    {
+      "angle": -180,
+      "contrailSize": 40,
+      "length": 45,
+      "location": [
+        -96,
+        10.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "pkbbot",
+      "width": 40
+    }
+  ],
+  "height": 207,
+  "hullId": "PulseIndustry_athenia",
+  "hullName": "Athenia",
+  "hullSize": "DESTROYER",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 120,
+  "spriteName": "graphics/ships/PulseIndustry_athenia.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": -37,
+      "arc": 197,
+      "id": "WS0001",
+      "locations": [
+        74,
+        -16
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 37,
+      "arc": 197,
+      "id": "WS0002",
+      "locations": [
+        74,
+        16
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 247,
+      "id": "WS0003",
+      "locations": [
+        48,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 1",
+      "locations": [
+        -1.5,
+        -27,
+        -15.5,
+        -27
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 2",
+      "locations": [
+        -1.5,
+        27,
+        -15.5,
+        27
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "CORE",
+      "locations": [
+        0,
+        0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 96
+}

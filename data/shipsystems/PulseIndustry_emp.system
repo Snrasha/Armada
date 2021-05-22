@@ -1,0 +1,31 @@
+{
+	"id":"PulseIndustry_emp",
+	#"type":"EMP",
+	#"aiType":"EMP",
+	"type":"STAT_MOD",
+	"aiType":"CUSTOM",
+	"aiScript":"src.data.shipsystems.scripts.ai.PulseIndustry_EmpAI",
+	"statsScript":"src.data.shipsystems.scripts.PulseIndustry_EmpGenerator",
+
+	"range":500,
+
+	"empDamage":10,
+	"damage":30,
+	"damageType":ENERGY,
+
+	"effectColor1":[254,136,71,200],
+	"effectColor2":[254,181,71,255],
+
+
+	"useSound":"system_emp_emitter_activate",
+	"loopSound":"system_emp_emitter_loop",
+	"impactSound":"system_emp_emitter_impact",
+	"outOfUsesSound":"gun_out_of_ammo",
+
+	"aiHints":{
+		"threatRange":600,
+		"threatAmount":4,
+		"threatAngle":0,
+		"threatArc":360,
+	}
+}
