@@ -1,6 +1,6 @@
 {
   "displayName": "Poke",
-  "fluxCapacitors": 3,
+  "fluxCapacitors": 4,
   "fluxVents": 3,
   "goalVariant": true,
   "hullId": "PulseIndustry_cuo",

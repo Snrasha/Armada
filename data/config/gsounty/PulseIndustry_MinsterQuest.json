@@ -4,7 +4,7 @@
     "lastname":"Ka",
     "officerlevel":-1, # Per default if -1, put the officerLevel max of your settings.
     "officerPersonality":"aggressive",
-    "mainShip":"PulseIndustry_cathedral_Balanced", # Flag Ship variant
+    "mainShip":"PulseIndustry_minster_Balanced", # Flag Ship variant
     "advships":[
     ["PulseIndustry_athenia_Support",2,"aggressive"],
     ["PulseIndustry_athenia_Strike",2,"aggressive"],

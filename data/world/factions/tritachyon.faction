@@ -6,13 +6,13 @@
         "PulseIndustry_bignouf":2,
           "PulseIndustry_athenia":2,
           "PulseIndustry_lodium":2,
-          "PulseIndustry_cathedral":2
+          "PulseIndustry_minster":2
       },
   },
   "knownShips":{
     "tags":["PulseIndustry_pulse_bp","PulseIndustry_special"],
     "hulls":[
-      "PulseIndustry_cathedral",
+      "PulseIndustry_minster",
       "PulseIndustry_cuo",
       "PulseIndustry_malice",
       "PulseIndustry_bignouf",
@@ -23,7 +23,7 @@
   "shipsWhenImporting":{
     "tags":["PulseIndustry_pulse_bp","PulseIndustry_special"],
     "hulls":[
-      "PulseIndustry_cathedral"
+      "PulseIndustry_minster"
     ],
   },
   "knownFighters":{

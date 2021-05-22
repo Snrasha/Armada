@@ -31,7 +31,7 @@ public class MissionDefinition implements MissionDefinitionPlugin {
         api.addToFleet(FleetSide.PLAYER, "PulseIndustry_malice_Attack", FleetMemberType.SHIP, true);
         api.addToFleet(FleetSide.PLAYER, "PulseIndustry_athenia_Support", FleetMemberType.SHIP, true);
         api.addToFleet(FleetSide.PLAYER, "PulseIndustry_lodium_Balance", FleetMemberType.SHIP, true);
-        api.addToFleet(FleetSide.PLAYER, "PulseIndustry_cathedral_Standard", FleetMemberType.SHIP, true);
+        api.addToFleet(FleetSide.PLAYER, "PulseIndustry_minster_Standard", FleetMemberType.SHIP, true);
 
         FleetMemberAPI fleetMember;
         fleetMember = api.addToFleet(FleetSide.ENEMY, "dominator_Outdated", FleetMemberType.SHIP, "Rhinoceros", false);

@@ -95,15 +95,15 @@
     "surveying_equipment"
   ],
   "builtInWeapons": {
-    "WS0040": "PulseIndustry_cathedral_system",
-    "WS0041": "PulseIndustry_cathedral_system",
-    "WS0042": "PulseIndustry_cathedral_system",
-    "WS0043": "PulseIndustry_cathedral_system",
-    "WS0044": "PulseIndustry_cathedral_system",
-    "WS0045": "PulseIndustry_cathedral_system",
-    "WS0046": "PulseIndustry_cathedral_system",
-    "WS0047": "PulseIndustry_cathedral_system",
-    "WS0048": "PulseIndustry_core_cathedral"
+    "WS0040": "PulseIndustry_minster_system",
+    "WS0041": "PulseIndustry_minster_system",
+    "WS0042": "PulseIndustry_minster_system",
+    "WS0043": "PulseIndustry_minster_system",
+    "WS0044": "PulseIndustry_minster_system",
+    "WS0045": "PulseIndustry_minster_system",
+    "WS0046": "PulseIndustry_minster_system",
+    "WS0047": "PulseIndustry_minster_system",
+    "WS0048": "PulseIndustry_core_minster"
   },
   "builtInWings": [],
   "center": [
@@ -186,7 +186,7 @@
     }
   ],
   "height": 700,
-  "hullId": "PulseIndustry_cathedral",
+  "hullId": "PulseIndustry_minster",
   "hullName": "Minster",
   "hullSize": "CAPITAL_SHIP",
   "shieldCenter": [
@@ -194,7 +194,7 @@
     0
   ],
   "shieldRadius": 463.5,
-  "spriteName": "graphics/ships/PulseIndustry_cathedral.png",
+  "spriteName": "graphics/ships/PulseIndustry_minster.png",
   "style": "HIGH_TECH",
   "viewOffset": 0,
   "weaponSlots": [

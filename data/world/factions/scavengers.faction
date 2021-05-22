@@ -1,8 +1,13 @@
 {
-
+"hullFrequency":{
+    "hulls":{
+        "PulseIndustry_minster":0.2
+    },
+},
   "knownShips":{
     "tags":["PulseIndustry_pulse_bp"],
     "hulls":[
+          "PulseIndustry_minster",
       "PulseIndustry_cuo",
       "PulseIndustry_malice",
       "PulseIndustry_bignouf",

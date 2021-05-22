@@ -1,9 +1,9 @@
 {
-	"id":"PulseIndustry_core_cathedral",
+	"id":"PulseIndustry_core_minster",
 	"specClass":"beam",
 	"type":"DECORATIVE",
 	"size":"SMALL",
-	"everyFrameEffect":"src.data.scripts.plugins.PulseIndustry_Cathedral_System",
+	"everyFrameEffect":"src.data.scripts.plugins.PulseIndustry_minster_System",
 	"renderBelowAllWeapons":true,
 	"turretSprite":"",
 	"hardpointSprite":"",

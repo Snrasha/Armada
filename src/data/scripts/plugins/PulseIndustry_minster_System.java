@@ -9,7 +9,7 @@ import com.fs.starfarer.api.combat.CombatEngineAPI;
 import com.fs.starfarer.api.combat.EveryFrameWeaponEffectPlugin;
 import com.fs.starfarer.api.combat.WeaponAPI;
 
-public class PulseIndustry_Cathedral_System implements EveryFrameWeaponEffectPlugin {
+public class PulseIndustry_minster_System implements EveryFrameWeaponEffectPlugin {
 
  //   private AnchoredEntity entity;
 

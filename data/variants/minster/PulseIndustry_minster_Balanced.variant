@@ -3,7 +3,7 @@
     "fluxCapacitors": 50,
     "fluxVents": 50,
     "goalVariant": true,
-    "hullId": "PulseIndustry_cathedral",
+    "hullId": "PulseIndustry_minster",
     "hullMods": [
         "hardenedshieldemitter",
         "auxiliarythrusters"
@@ -15,7 +15,7 @@
         {"WS0037": "PulseIndustry_module_shield_Standard"}
     ],
     "permaMods": [],
-    "variantId": "PulseIndustry_cathedral_Balanced",
+    "variantId": "PulseIndustry_minster_Balanced",
     "weaponGroups": [
         {
             "autofire": false,

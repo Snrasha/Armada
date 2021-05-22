@@ -1,5 +1,9 @@
 Version 1.1:
 -Update to latest version of starsector.
+-Bignouf OP change to 45 (from 35)
+-Bignouf synergy mount switch to missile mount.
+-Increase the rarity of weapon.
+-Down the chance of see Pulse Industry wings everywhere.
 
 
 Version 1.0(break save):

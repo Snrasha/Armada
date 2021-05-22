@@ -1,7 +1,7 @@
 {
   "displayName": "Strike",
-  "fluxCapacitors": 7,
-  "fluxVents": 4,
+  "fluxCapacitors": 10,
+  "fluxVents": 5,
   "goalVariant": true,
   "hullId": "PulseIndustry_bignouf",
   "hullMods": [],
@@ -13,6 +13,7 @@
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
+      "WS0001": "ioncannon",
         "WS0002": "ioncannon"
       }
     },

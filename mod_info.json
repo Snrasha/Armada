@@ -12,5 +12,5 @@
             "name": "LazyLib",
         },
     ],
-	"jars":["jars/PulseIndustry.jar"],
+	"jars":["jars/PulseIndustryJar.jar"],
 }

@@ -24,8 +24,8 @@
 		"PulseIndustry_lodium_Strike":0.1,
 	},
 	"combatCapital":{
-		"PulseIndustry_cathedral_Balanced":1,
-		"PulseIndustry_cathedral_Standard":1,
+		"PulseIndustry_minster_Balanced":5,
+		"PulseIndustry_minster_Standard":5,
 	},
 
 	"carrierMedium":{

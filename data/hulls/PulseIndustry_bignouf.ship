@@ -139,7 +139,7 @@
       ],
       "mount": "HARDPOINT",
       "size": "SMALL",
-      "type": "SYNERGY"
+      "type": "MISSILE"
     },
     {
       "angle": 0,
@@ -151,7 +151,7 @@
       ],
       "mount": "HARDPOINT",
       "size": "SMALL",
-      "type": "SYNERGY"
+      "type": "MISSILE"
     },
     {
       "angle": -83,

@@ -1,11 +1,11 @@
 {
-	"id":"PulseIndustry_cathedral_system",
+	"id":"PulseIndustry_minster_system",
 	"specClass":"beam",
 	"type":"DECORATIVE",
 	"size":"LARGE",
 	"showDamageWhenDecorative":true,
 	"renderBelowAllWeapons":true,
-	"turretSprite":"graphics/weapons/PulseIndustry_cathedral_system.png",
+	"turretSprite":"graphics/weapons/PulseIndustry_minster_system.png",
 	"hardpointSprite":"",
 	"turretOffsets":[0, 0],
 	"turretAngleOffsets":[0],
