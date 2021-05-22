@@ -46,6 +46,7 @@ public class PulseIndustry_Core extends BaseHullMod {
      	stats.getHardFluxDissipationFraction().modifyFlat(id, FLUX_SHUNT_DISSIPATION / 100f);
 
     }
+    
 
     @Override
     public void applyEffectsAfterShipCreation(ShipAPI ship, String id) {
