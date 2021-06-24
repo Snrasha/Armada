@@ -23,10 +23,15 @@
 		"PulseIndustry_lodium_Burst":0.1,
 		"PulseIndustry_lodium_Strike":0.1,
 	},
-	"combatCapital":{
-		"PulseIndustry_minster_Balanced":5,
-		"PulseIndustry_minster_Standard":5,
+	"civilianRandom":{
+		"PulseIndustry_minster_Balanced":1,
+		"PulseIndustry_minster_Standard":1,
 	},
+	"personnelLarge":{
+		"PulseIndustry_minster_Balanced":1,
+		"PulseIndustry_minster_Standard":1,
+	},
+
 
 	"carrierMedium":{
 		"PulseIndustry_athenia_Strike":0.1,
